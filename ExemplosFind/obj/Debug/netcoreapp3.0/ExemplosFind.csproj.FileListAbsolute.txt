@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\bin\Debug\netcoreapp3.0\ExemplosFind.exe
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\bin\Debug\netcoreapp3.0\ExemplosFind.deps.json
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\bin\Debug\netcoreapp3.0\ExemplosFind.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\bin\Debug\netcoreapp3.0\ExemplosFind.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\bin\Debug\netcoreapp3.0\ExemplosFind.dll
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\bin\Debug\netcoreapp3.0\ExemplosFind.pdb
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\obj\Debug\netcoreapp3.0\ExemplosFind.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\obj\Debug\netcoreapp3.0\ExemplosFind.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\obj\Debug\netcoreapp3.0\ExemplosFind.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\obj\Debug\netcoreapp3.0\ExemplosFind.dll
+C:\Users\marcos.paixao\source\repos\ExemplosFind\ExemplosFind\obj\Debug\netcoreapp3.0\ExemplosFind.pdb
